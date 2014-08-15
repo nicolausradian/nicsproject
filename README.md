@@ -1,0 +1,4 @@
+nicsproject
+===========
+
+getting started
